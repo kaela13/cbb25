@@ -131,3 +131,7 @@ plt.xlabel('Feature Importance')
 plt.title('Permutation Feature Importance')
 plt.tight_layout()
 plt.show()
+
+
+#This model has an R2 of -0.205, reducing the features to only the most important ones WAB, ORB, ADJDE, EFG_D, EFG_O, 2P_O
+increased the R2 to 0.826. 
